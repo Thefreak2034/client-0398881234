@@ -1,11 +1,11 @@
 /* ============================================================
-   Buzz Electrical — Mid-Tier Electrician Template
+   DGG Midx Electrical — Mid-Tier Electrician Template
    Design: Arkdin-inspired
    ============================================================ */
 
 /* ---------- Design Tokens ---------- */
 :root {
-  --color-accent: #1646D2;
+  --color-accent: #FF4D00;
   --color-accent-hover: #0F3399;
   --color-heading: #010f34;
   --color-body: #788094;
